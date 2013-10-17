@@ -1,6 +1,6 @@
 import play.Project._
 
-name := "computer-database"
+name := "testwar"
 
 version := "1.0"
 
